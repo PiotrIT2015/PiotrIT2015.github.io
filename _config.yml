@@ -72,6 +72,12 @@ apps:
  - name: HealthMonitor
    url: https://gitlab.com/PiotrIT2017/healthmonitor
    description: app which help maintain balance
+ - name: localizatormessangerapp
+   url: https://gitlab.com/PiotrIT2017/localizatormessangerapp
+   description: The next project involved the creation of an Internet messenger with a geolocation service.
+ - name: infoapp
+   url: https://gitlab.com/PiotrIT2017/infoapp
+   description: The order consists in creating an application that sends information to users.
 
 #Stackoverflow flair is optional
 stackoverflow:
