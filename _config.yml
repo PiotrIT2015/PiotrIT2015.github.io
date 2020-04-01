@@ -65,7 +65,7 @@ education:
 apps:
  - name: Postman
    url: https://gitlab.com/PiotrIT2017/postman
-   description: postman helper
+   description: app which help shipper
  - name: Reminder
    url: https://gitlab.com/PiotrIT2017/reminder
    description: app for forgetfules
