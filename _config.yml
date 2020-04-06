@@ -78,6 +78,10 @@ apps:
  - name: infoapp
    url: https://gitlab.com/PiotrIT2017/infoapp
    description: The order consists in creating an application that sends information to users.
+   
+#List of interesting Github repo/projects to include - optional
+github:
+ - PiotrIT2015/Cisco
 
 #Stackoverflow flair is optional
 stackoverflow:
