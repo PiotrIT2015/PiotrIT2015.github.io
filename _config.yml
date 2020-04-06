@@ -70,8 +70,8 @@ apps:
    url: https://gitlab.com/PiotrIT2017/reminder
    description: app for forgetfules
  - name: HealthMonitor
-   url: https://gitlab.com/PiotrIT2017/healthmonitor
-   description: app which help maintain balance
+   url: https://github.com/PiotrIT2015/HealthMonitor
+   description: app which help maintain balance. First app with MVP architecture.
  - name: localizatormessangerapp
    url: https://gitlab.com/PiotrIT2017/localizatormessangerapp
    description: The next project involved the creation of an Internet messenger with a geolocation service.
