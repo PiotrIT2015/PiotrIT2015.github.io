@@ -82,7 +82,7 @@ apps:
 #List of interesting Github repo/projects to include - optional
 github:
  - PiotrIT2015/Cisco
- - PiotrIT2015/tornadoAnalyzer
+ - PiotrIT2015/thesis
 
 #Stackoverflow flair is optional
 stackoverflow:
