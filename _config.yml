@@ -69,9 +69,6 @@ education:
 
 #This section is optional (as is the image link below)
 apps:
- - name: Deliverman
-   url: https://github.com/PiotrIT2015/Deliverman
-   description: app which help deliver daily shopping.
  - name: Reminder
    url: https://github.com/PiotrIT2015/Reminder
    description: app for forgetfules
