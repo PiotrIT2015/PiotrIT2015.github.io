@@ -77,7 +77,7 @@ apps:
    description: app helps maintain balance in i.e.time of COVID-19
  - name: Shipper
    url: https://github.com/PiotrIT2015/Shipper
-   description: app helps counting time for demanding shopping in Reminder
+   description: app helps counting time demanded for shopping in Reminder
    
 #List of interesting Github repo/projects to include - optional
 github:
