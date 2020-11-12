@@ -71,10 +71,13 @@ education:
 apps:
  - name: Reminder
    url: https://github.com/PiotrIT2015/Reminder
-   description: app for forgetfules
+   description: app helps to remember about shops
  - name: HealthMonitor
    url: https://github.com/PiotrIT2015/HealthMonitor
-   description: app which help maintain balance. First app with MVP architecture.
+   description: app helps maintain balans in i.e.time of COVID-19
+ - name: Shipper
+   url: https://github.com/PiotrIT2015/Shipper
+   description: app helps counting time for demanding shopping in Reminder
    
 #List of interesting Github repo/projects to include - optional
 github:
