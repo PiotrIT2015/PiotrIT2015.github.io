@@ -74,7 +74,7 @@ apps:
    description: app helps to remember about shops
  - name: HealthMonitor
    url: https://github.com/PiotrIT2015/HealthMonitor
-   description: app helps maintain balans in i.e.time of COVID-19
+   description: app helps maintain balance in i.e.time of COVID-19
  - name: Shipper
    url: https://github.com/PiotrIT2015/Shipper
    description: app helps counting time for demanding shopping in Reminder
