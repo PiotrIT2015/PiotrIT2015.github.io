@@ -14,3 +14,19 @@
 		</div>
 	</div>
 {% endif %}
+{% if site.facebook %}
+	<div class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1>Social media</h1>
+		</div>
+		<div class="content-rounded-panel">
+			<div id="stackScore">
+				<a target='_blank' href="{{site.facebook.profileurl}}">
+					<img src="{{site.facebook.flairimageurl}}" width="208" height="58" 
+						alt="profile" 
+						title="profile at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+				</a>
+			</div>
+		</div>
+	</div>
+{% endif %}
