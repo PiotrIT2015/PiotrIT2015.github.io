@@ -10,10 +10,6 @@ markdown: kramdown
 primarylinks:
  - title: GitHub
    url: https://github.com/PiotrIT2015
- - title: LinkedIn
-   url: https://www.linkedin.com/in/piotr-prochnicki-7808b2133/?locale=en_US
- - title: Freelancer
-   url: https://www.linkedin.com/company/greenroom-7808b2133/?locale=en_US
 
 #Any buzzword skills you want to include
 skills:
@@ -95,6 +91,14 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/8010152/piotr-pr%C3%B3chnicki
+Linkedin:
+   profileurl: https://www.linkedin.com/in/piotr-prochnicki-7808b2133
+Facebook:
+   profileurl: https://facebook.com/piotr.prochnicki.526
+Twitter:
+   profileurl: https://twitter.com/PiotrProchnicki
+Linkedin:
+   profileurl: https://www.linkedin.com/company/greenroom-7808b2133/?locale=en_US
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
