@@ -91,13 +91,13 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/8010152/piotr-pr%C3%B3chnicki
-Linkedin:
+stackoverflow:
    profileurl: https://www.linkedin.com/in/piotr-prochnicki-7808b2133
-Facebook:
+stackoverflow:
    profileurl: https://facebook.com/piotr.prochnicki.526
-Twitter:
+stackoverflow:
    profileurl: https://twitter.com/PiotrProchnicki
-Linkedin:
+stackoverflow:
    profileurl: https://www.linkedin.com/company/greenroom-7808b2133/?locale=en_US
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
