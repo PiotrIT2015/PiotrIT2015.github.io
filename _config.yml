@@ -35,16 +35,16 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Volunteer
+   start: January 2019
+   end: February 2021
+   employer: none
+   description: I'd done few IT projects which support daily life in COVID-19.
  - title: Office worker
    start: September 2020
    end: December 2020
    employer: Paweł Samolej Grupa Center
    description: Complete the marketing of all items that needed to be completed before the holiday shopping season in an automated Shopper environment.
- - title: Volunteer
-   start: January 2019
-   end: November 2020
-   employer: none
-   description: I'd done few IT projects which support daily life in COVID-19.
  - title: Office Administrative Employee
    start: November 2018
    end: June 2020
