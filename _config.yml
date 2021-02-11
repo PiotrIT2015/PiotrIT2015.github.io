@@ -16,9 +16,12 @@ primarylinks:
  #  url: https://facebook.com/piotr.prochnicki.526
  - title: Twitter
    url: https://twitter.com/PiotrProchnicki
-   
+
+#Social media   
 twitter_username:
  - PiotrProchnicki
+linkedin_username:
+ - piotr-prochnicki
 
 #Any buzzword skills you want to include
 skills:
