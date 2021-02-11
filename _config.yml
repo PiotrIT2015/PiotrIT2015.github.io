@@ -7,7 +7,7 @@ markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
-#primarylinks:
+primarylinks:
 # - title: GitHub
 #   url: https://github.com/PiotrIT2015
 # - title: Linkedin
