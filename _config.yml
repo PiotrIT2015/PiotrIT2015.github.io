@@ -11,13 +11,11 @@ primarylinks:
  - title: GitHub
    url: https://github.com/PiotrIT2015
  - title: Linkedin
-   url: https://www.linkedin.com/in/piotr-prochnicki-7808b2133
- #- title: COVID-19
- #  url: https://www.linkedin.com/company/greenroom-7808b2133
+   url: https://www.linkedin.com/in/piotr-prochnicki
  #- title: Facebook
  #  url: https://facebook.com/piotr.prochnicki.526
- #- title: Twitter
- #  url: https://twitter.com/PiotrProchnicki
+ - title: Twitter
+   url: https://twitter.com/PiotrProchnicki
 
 #Any buzzword skills you want to include
 skills:
