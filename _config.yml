@@ -34,8 +34,6 @@ dockerhub_username:
  - piotrit2015
 hobby:
  - pentester-7808b2133
-historia_choroby
- - s!AhiQqErcF20X6EpTKby35l0fFsgP?e=kkrz3z
  
 
 #Any buzzword skills you want to include
@@ -120,7 +118,8 @@ stackoverflow:
    profileurl: https://stackoverflow.com/users/8010152/piotr-pr%C3%B3chnicki
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
+additionalinfo:
+<p><a target='_blank' href="https://1drv.ms/u/s!AhiQqErcF20X6EpTKby35l0fFsgP?e=kkrz3z">Historia choroby</a></p>	 |
    <strong>JVM</strong>: I've develop Java application sinc study.
    <strong>Spring</strong>: I've develop microservices based on Spring sinc I started create project Greenroom.
    <strong>Docker</strong>: I used Docker in Greenroom.
